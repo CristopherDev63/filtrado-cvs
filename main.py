@@ -88,4 +88,3 @@ if __name__ == "__main__":
 
     log.registro_cambios(*funciones)
 
-    
